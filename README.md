@@ -1,2 +1,2 @@
 # runballroom
-Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts 
+Allow specific users to access and run existing tools, services, and scripts
